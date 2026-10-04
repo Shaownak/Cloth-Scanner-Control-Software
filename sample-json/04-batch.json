@@ -1,0 +1,6 @@
+{ "schema_version": 1, "cloths": [
+  { "cloth_id": "CL-101", "status": 2, "confidence": 0.99 },
+  { "cloth_id": "CL-102", "status": 1, "confidence": 0.96 },
+  { "cloth_id": "CL-103", "status": 3, "confidence": 0.92 },
+  { "cloth_id": "CL-104", "status": 2, "confidence": 0.98 }
+] }

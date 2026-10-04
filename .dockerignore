@@ -1,0 +1,10 @@
+.git
+.tools
+esp-code
+tests
+test-results
+simulation
+node_modules
+working-software/data
+working-software/vision-inbox
+*.log

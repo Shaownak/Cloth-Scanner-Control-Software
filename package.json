@@ -1,0 +1,14 @@
+{
+  "name": "cloth-scanner-table",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24.0.0" },
+  "scripts": {
+    "start": "node working-software/src/server.js",
+    "simulate": "node simulation/server.js",
+    "test": "node --test tests/*.test.js",
+    "keys": "node scripts/show-keys.js",
+    "mock-esp": "node scripts/mock-esp.js"
+  }
+}

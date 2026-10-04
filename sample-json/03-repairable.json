@@ -1,0 +1,1 @@
+{ "schema_version": 1, "cloth_id": "CL-003", "status": 3, "confidence": 0.91, "defects": [{ "type": "loose_thread" }] }

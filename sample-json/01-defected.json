@@ -1,0 +1,1 @@
+{ "schema_version": 1, "cloth_id": "CL-001", "status": 1, "confidence": 0.97, "defects": [{ "type": "hole", "position_mm": { "x": 140, "y": 320 } }] }

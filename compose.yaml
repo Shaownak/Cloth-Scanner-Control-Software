@@ -1,0 +1,13 @@
+services:
+  cloth-controller:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8090:8090"
+    environment:
+      DEVICE_ID: table-01
+      HOST: 0.0.0.0
+      PORT: "8090"
+    volumes:
+      - ./working-software/data:/app/working-software/data
+      - ./working-software/vision-inbox:/app/working-software/vision-inbox
